@@ -4,7 +4,7 @@
 
 3. Anda dapat menonaktifkan beberapa lapisan peta untuk data yang tidak kami perlukan untuk peta ini. Luaskan folder z5 - 1:18m dan hapus centang pada kotak di sebelah lapisan ne_10m_geography_marine_polys dan ne_10m_admin_0_disputed_areas. Sebelum kita membuat peta yang cocok untuk dicetak, kita perlu memilih proyeksi yang sesuai. CRS default untuk proyek diatur ke EPSG:3857 Pseudo-Mercator. Ini adalah CRS yang populer digunakan untuk pemetaan web dan merupakan pilihan yang layak untuk tujuan kita, sehingga kita dapat membiarkannya pada nilai defaultnya. Pergi ke Proyek Tata Letak Cetak Baru.
 
-4.Anda akan diminta untuk memasukkan judul untuk tata letak. Anda dapat membiarkannya kosong dan klik Ok.
+4. Anda akan diminta untuk memasukkan judul untuk tata letak. Anda dapat membiarkannya kosong dan klik Ok.
 
 5. Di jendela Print Layout, klik tombol Zoom full untuk menampilkan seluruh Layout.
 
@@ -43,7 +43,7 @@ Seret persegi panjang di tempat Anda ingin menambahkan inset peta. Anda sekarang
 
 22. Perhatikan bahwa kisi sekarang memiliki label khusus dari ekspresi. Sesuaikan pengaturan posisi Kiri, Kanan, Atas dan Bawah sesuai keinginan Anda.
 
-23. Sekarang kita akan menambahkan bingkai Rectangluar untuk menampung elemen peta lainnya seperti panah utara, skala, dan label. Pergi ke Add Item Add Shape Add Rectangle.
+23.Sekarang kita akan menambahkan bingkai Rectangluar untuk menampung elemen peta lainnya seperti panah utara, skala, dan label. Pergi ke Add Item Add Shape Add Rectangle.
 
 24. Anda dapat mengubah Gaya persegi panjang agar sesuai dengan latar belakang peta.
 
@@ -61,4 +61,4 @@ Seret persegi panjang di tempat Anda ingin menambahkan inset peta. Anda sekarang
 
 31. Setelah Anda puas dengan peta, Anda dapat mengekspornya sebagai Gambar, PDF, atau SVG. Untuk tutorial ini, mari kita ekspor sebagai gambar. Klik Tata Letak Ekspor sebagai Gambar.
 
-32. Simpan gambar dalam format yang Anda sukai. Di bawah ini adalah gambar PNG yang diekspor.
+32. Save the image in the format of your liking. Below is the exported PNG image.
