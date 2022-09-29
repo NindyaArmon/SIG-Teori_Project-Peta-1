@@ -43,7 +43,7 @@ Seret persegi panjang di tempat Anda ingin menambahkan inset peta. Anda sekarang
 
 22. Perhatikan bahwa kisi sekarang memiliki label khusus dari ekspresi. Sesuaikan pengaturan posisi Kiri, Kanan, Atas dan Bawah sesuai keinginan Anda.
 
-23.Sekarang kita akan menambahkan bingkai Rectangluar untuk menampung elemen peta lainnya seperti panah utara, skala, dan label. Pergi ke Add Item Add Shape Add Rectangle.
+23. Sekarang kita akan menambahkan bingkai Rectangluar untuk menampung elemen peta lainnya seperti panah utara, skala, dan label. Pergi ke Add Item Add Shape Add Rectangle.
 
 24. Anda dapat mengubah Gaya persegi panjang agar sesuai dengan latar belakang peta.
 
